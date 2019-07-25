@@ -1,0 +1,12 @@
+[package]
+name = "rust_web_crawler"
+version = "0.1.0"
+authors = ["tawilkinson"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+reqwest = "0.9.18"
+select = "0.4.3" 
+url = "2.0.0"
